@@ -1,6 +1,6 @@
 ### Hi, I'm Hakan.
 
-I'm currently working as a full stack software engineer at CarServ. 
+I'm currently working as a full stack software engineer. 
 
 **Languages & Frameworks**  
 
